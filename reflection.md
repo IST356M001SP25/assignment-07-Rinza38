@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+# Overall, this assignment went well since most of the tests passed, but I’m a little confused about why two minor tests failed. I followed the instructions carefully, especially when cleaning the scraped text and extracting the menu items. The functions seemed to work when I tested them individually, but something must have gone wrong in the details. Maybe I missed an edge case, like a different format for the price or description.
+
+# I enjoyed learning about dataclasses and how they help structure data, making it easier to work with. The scraping part was also interesting, though figuring out the right CSS selectors took some trial and error. Next time, I’ll double-check my test cases to make sure I handle all possible inputs correctly. Even though I didn’t get everything perfect, I still feel like I learned a lot about web scraping and data cleaning.
